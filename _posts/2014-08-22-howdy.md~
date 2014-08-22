@@ -1,0 +1,10 @@
+---
+layout: post
+title: Howdy
+tagline: "First post"
+tags : [intro, beginner, jekyll]
+---
+{% include JB/setup %}
+
+## Hello
+ 
